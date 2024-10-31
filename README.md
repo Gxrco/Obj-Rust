@@ -1,7 +1,6 @@
 # Spaceship Model in Rust
 
-This model has been created using a modeling 3D software called Blender, the challenge making this model was using only one cube to start extruding until have a decent shape of a spaceship. Finally, I exported this model as .obj as triangled mesh to be read by the algorithm in 
-Rust.
+This model has been created using a 3D modeling software called Blender, the challenge of making this model was to use only a cube to start extruding until I had a decent shape of a spaceship. Finally, I exported this model as .obj as a triangulated mesh to be read by the algorithm in Rust.
 
 # Demo
 
